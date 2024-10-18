@@ -1,0 +1,20 @@
+body {
+    background-color: #252222;
+    color: white;
+    font-family: "Londrina Solid", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    background-color: #1b84e0;
+    color: white;
+    font-family: "Londrina Solid", sans-serif;
+    .passo.ativo {
+        display:block;
+    }
+}
